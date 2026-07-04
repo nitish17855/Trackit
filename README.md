@@ -1,6 +1,6 @@
 # TrackIt — Workout Progress Tracker
 
-TrackIt is a full-stack workout tracking website. It helps users create workout plans, record exercises, mark completed workouts, and see how consistently they are training.
+TrackIt is a full-stack workout tracking website. It helps users create workout plans, record exercises,schedule exercises ,  mark completed workouts, and see how consistently they are training.
 
 ## Features
 
