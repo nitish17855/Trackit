@@ -39,7 +39,7 @@ Install these before starting:
 Open `Backened` and create a `.env` file:
 
 ```env
-DATABASE_URL=postgresql://postgres:password@localhost:5432/quizzo
+DATABASE_URL=postgresql://postgres:password@localhost:5432/trackit
 SECRET_KEY=replace_this_with_a_long_random_secret
 ```
 
