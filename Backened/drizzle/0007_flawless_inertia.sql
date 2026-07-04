@@ -1,0 +1,1 @@
+ALTER TABLE "workout" ADD COLUMN "email" varchar(255);

@@ -1,0 +1,1 @@
+ALTER TABLE "schedule" ADD COLUMN "email" varchar(255);
